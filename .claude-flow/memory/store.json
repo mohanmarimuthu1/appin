@@ -1,0 +1,221 @@
+{
+  "entries": {
+    "cmd-1793945024366": {
+      "key": "cmd-1793945024366",
+      "value": "{\"command\":\"ls -la; python --version; pip --version; node --version; echo \\\"ANTH=${ANTHROPIC_API_KEY:+set} GEM=${GEMINI_API_KEY:+set} GROQ=${GROQ_API_KEY:+set} OPENAI=${OPENAI_API_KEY:+set}\\\"; python -c \\\"import flask, requests, anthropic; print('flask',flask.__version__,'anthropic',anthropic.__version__)\\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:03:44.366Z",
+      "lastAccessed": "2026-11-06T06:03:44.366Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:03:44.366Z"
+    },
+    "cmd-1793945031494": {
+      "key": "cmd-1793945031494",
+      "value": "{\"command\":\"cd /tmp 2>/dev/null; curl -s -m 10 \\\"https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=digital+marketing+course+in+coimbatore\\\" ; echo; curl -s -m 15 -o /dev/null -w \\\"home %{http_code}\\\\n\\\" https://appincoimbatore.com/; curl -s -m 15 https://appincoimbatore.com/sitemap.xml | head -c 1500; echo; curl -s -m 15 -o /dev/null -w \\\"sitemap_index %{http_code}\\\\n\\\" https://appincoimbatore.com/sitemap_index.xml; curl -s -m 15 -o /dev/null -w \\\"wp-json %{http_code}\\\\n\\\" \\\"https://appincoimbatore.com/wp-json/wp/v2/posts?per_page=5\\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:03:51.494Z",
+      "lastAccessed": "2026-11-06T06:03:51.494Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:03:51.494Z"
+    },
+    "cmd-1793945037727": {
+      "key": "cmd-1793945037727",
+      "value": "{\"command\":\"curl -s -m 20 \\\"https://appincoimbatore.com/wp-json/wp/v2/posts?per_page=100&_fields=title,link,slug\\\" | python -c \\\"import sys,json;d=json.load(sys.stdin);print(len(d));[print(p['slug'],'|',p['title']['rendered']) for p in d[:60]]\\\"; curl -s -m 20 \\\"https://appincoimbatore.com/wp-json/wp/v2/pages?per_page=100&_fields=title,link\\\" | python -c \\\"import sys,json;d=json.load(sys.stdin);print(len(d));[print(p['link'],'|',p['title']['rendered']) for p in d[:60]]\\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:03:57.727Z",
+      "lastAccessed": "2026-11-06T06:03:57.727Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:03:57.727Z"
+    },
+    "cmd-1793945046807": {
+      "key": "cmd-1793945046807",
+      "value": "{\"command\":\"curl -s -m 20 \\\"https://appincoimbatore.com/wp-json/wp/v2/pages?per_page=100&page=2&_fields=link\\\" | python -c \\\"import sys,json;[print(p['link']) for p in json.load(sys.stdin) if 'job/' not in p['link']]\\\"; curl -s -m 20 \\\"https://appincoimbatore.com/wp-json/wp/v2/pages?per_page=100&search=digital%20marketing&_fields=link\\\" | python -c \\\"import sys,json;[print(p['link']) for p in json.load(sys.stdin) if 'job/' not in p['link']]\\\"; curl -s -m 15 -I \\\"https://appincoimbatore.com/wp-json/wp/v2/posts?per_page=100\\\" | grep -i x-wp-total\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:04:06.807Z",
+      "lastAccessed": "2026-11-06T06:04:06.807Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:04:06.807Z"
+    },
+    "cmd-1793945055967": {
+      "key": "cmd-1793945055967",
+      "value": "{\"command\":\"for u in digital-marketing-course-in-coimbatore digital-marketing-course seo-course-in-coimbatore contact-us contact blog; do curl -s -m 15 -o /dev/null -w \\\"$u %{http_code} %{redirect_url}\\\\n\\\" https://appincoimbatore.com/$u/; done\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:04:15.967Z",
+      "lastAccessed": "2026-11-06T06:04:15.967Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:04:15.967Z"
+    },
+    "cmd-1793945066381": {
+      "key": "cmd-1793945066381",
+      "value": "{\"command\":\"cd \\\"C:/Users/MOHANK~1/AppData/Local/Temp/claude/bundled-skills/2.1.312/3b89f361465cf3d358e1329bfa966bb2/claude-api/python/claude-api\\\"; grep -n -i -A30 \\\"structured output\\\" tool-use.md | head -90; grep -n -A25 \\\"Refusal Fallbacks\\\" README.md | head -50\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:04:26.381Z",
+      "lastAccessed": "2026-11-06T06:04:26.381Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:04:26.381Z"
+    },
+    "cmd-1793945081883": {
+      "key": "cmd-1793945081883",
+      "value": "{\"command\":\"python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:04:41.883Z",
+      "lastAccessed": "2026-11-06T06:04:41.883Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:04:41.883Z"
+    },
+    "cmd-1793945219738": {
+      "key": "cmd-1793945219738",
+      "value": "{\"command\":\"mkdir -p data output/blogs templates && echo \\\"[]\\\" > data/sample_keywords.json && python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:06:59.738Z",
+      "lastAccessed": "2026-11-06T06:06:59.738Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:06:59.738Z"
+    },
+    "cmd-1793945342190": {
+      "key": "cmd-1793945342190",
+      "value": "{\"command\":\"python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:09:02.190Z",
+      "lastAccessed": "2026-11-06T06:09:02.190Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:09:02.190Z"
+    },
+    "cmd-1793945365809": {
+      "key": "cmd-1793945365809",
+      "value": "{\"command\":\"python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:09:25.809Z",
+      "lastAccessed": "2026-11-06T06:09:25.809Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:09:25.809Z"
+    },
+    "cmd-1793945384493": {
+      "key": "cmd-1793945384493",
+      "value": "{\"command\":\"for p in 1 2 3; do curl -s -m 20 \\\"https://appincoimbatore.com/wp-json/wp/v2/posts?per_page=100&page=$p&_fields=title,link\\\" > \\\"$TMP/p$p.json\\\" ; done; python - \\\"$TMP\\\" <<'EOF'\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:09:44.493Z",
+      "lastAccessed": "2026-11-06T06:09:44.493Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:09:44.493Z"
+    },
+    "cmd-1793945445203": {
+      "key": "cmd-1793945445203",
+      "value": "{\"command\":\"rm -f data/cache/appin_posts.json && python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:10:45.203Z",
+      "lastAccessed": "2026-11-06T06:10:45.203Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:10:45.203Z"
+    },
+    "cmd-1793945704501": {
+      "key": "cmd-1793945704501",
+      "value": "{\"command\":\"touch agent/__init__.py && printf \\\"flask>=3.0\\\\nrequests>=2.31\\\\nanthropic>=0.99\\\\npydantic>=2.0\\\\n\\\" > requirements.txt && python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:15:04.501Z",
+      "lastAccessed": "2026-11-06T06:15:04.501Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:15:04.501Z"
+    },
+    "cmd-1793945737937": {
+      "key": "cmd-1793945737937",
+      "value": "{\"command\":\"rm -rf output/blogs/* && python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:15:37.937Z",
+      "lastAccessed": "2026-11-06T06:15:37.937Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:15:37.937Z"
+    },
+    "cmd-1793945764159": {
+      "key": "cmd-1793945764159",
+      "value": "{\"command\":\"rm -rf output/blogs/* && export PYTHONIOENCODING=utf-8 && python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:16:04.159Z",
+      "lastAccessed": "2026-11-06T06:16:04.159Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:16:04.159Z"
+    },
+    "cmd-1793945769963": {
+      "key": "cmd-1793945769963",
+      "value": "{\"command\":\"export PYTHONIOENCODING=utf-8 && python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:16:09.963Z",
+      "lastAccessed": "2026-11-06T06:16:09.963Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:16:09.963Z"
+    },
+    "cmd-1793945799372": {
+      "key": "cmd-1793945799372",
+      "value": "{\"command\":\"rm -rf output/blogs/* && export PYTHONIOENCODING=utf-8 && python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:16:39.372Z",
+      "lastAccessed": "2026-11-06T06:16:39.372Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:16:39.372Z"
+    },
+    "cmd-1793945808873": {
+      "key": "cmd-1793945808873",
+      "value": "{\"command\":\"PYTHONIOENCODING=utf-8 python app.py\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:16:48.873Z",
+      "lastAccessed": "2026-11-06T06:16:48.873Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:16:48.873Z"
+    },
+    "cmd-1793945816161": {
+      "key": "cmd-1793945816161",
+      "value": "{\"command\":\"export PYTHONIOENCODING=utf-8 && python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:16:56.161Z",
+      "lastAccessed": "2026-11-06T06:16:56.161Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:16:56.161Z"
+    },
+    "cmd-1793945832739": {
+      "key": "cmd-1793945832739",
+      "value": "{\"command\":\"curl -s -o /dev/null -w \\\"index %{http_code}\\\\n\\\" http://127.0.0.1:5000/ && curl -s -N -m 120 http://127.0.0.1:5000/api/create | python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:17:12.739Z",
+      "lastAccessed": "2026-11-06T06:17:12.739Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:17:12.739Z"
+    },
+    "cmd-1793945854469": {
+      "key": "cmd-1793945854469",
+      "value": "{\"command\":\"export PYTHONIOENCODING=utf-8 && ANTHROPIC_API_KEY=[redacted] python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:17:34.469Z",
+      "lastAccessed": "2026-11-06T06:17:34.469Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:17:34.469Z"
+    },
+    "cmd-1793945904689": {
+      "key": "cmd-1793945904689",
+      "value": "{\"command\":\"(netstat -ano | grep \\\":5000 .*LISTENING\\\" | awk '{print $5}' | sort -u | xargs -r -I{} taskkill //PID {} //F) ; rm -rf output/blogs/* data/cache && echo cleaned\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:18:24.689Z",
+      "lastAccessed": "2026-11-06T06:18:24.689Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:18:24.689Z"
+    },
+    "cmd-1793945913189": {
+      "key": "cmd-1793945913189",
+      "value": "{\"command\":\"PYTHONIOENCODING=utf-8 python app.py\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:18:33.189Z",
+      "lastAccessed": "2026-11-06T06:18:33.189Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:18:33.189Z"
+    },
+    "cmd-1793945938876": {
+      "key": "cmd-1793945938876",
+      "value": "{\"command\":\"for i in 1 2; do curl -s -N -m 120 http://127.0.0.1:5000/api/create | python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:18:58.876Z",
+      "lastAccessed": "2026-11-06T06:18:58.876Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:18:58.876Z"
+    }
+  },
+  "version": "3.0.0"
+}
