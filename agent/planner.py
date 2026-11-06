@@ -7,6 +7,7 @@ A keyword is rejected or penalised when an existing page already targets it
 """
 import html
 import json
+import os
 import re
 import time
 from pathlib import Path
@@ -16,9 +17,11 @@ import requests
 from .research import tokens
 
 ROOT = Path(__file__).resolve().parent.parent
-CACHE_FILE = ROOT / "data" / "cache" / "appin_posts.json"
+# Serverless hosts (Vercel, AWS Lambda) mount the code read-only; only /tmp is writable there.
+WRITE_ROOT = Path("/tmp/appin") if os.environ.get("VERCEL") or os.environ.get("AWS_LAMBDA_FUNCTION_NAME") else ROOT
+CACHE_FILE = WRITE_ROOT / "data" / "cache" / "appin_posts.json"
 SAMPLE_FILE = ROOT / "data" / "sample_existing_posts.json"
-OUTPUT_DIR = ROOT / "output" / "blogs"
+OUTPUT_DIR = WRITE_ROOT / "output" / "blogs"
 SITE = "https://appincoimbatore.com"
 AGENT_HEADERS = {"User-Agent": "AppinSEOBlogAgent/1.0 (interview prototype; read-only)"}
 # Function words only - question words like "how"/"after" do change the topic.

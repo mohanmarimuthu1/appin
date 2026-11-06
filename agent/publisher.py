@@ -94,4 +94,4 @@ def publish(slug, draft, plan, cluster, research_summary, audit_summary, qa, mod
         "plan": plan.model_dump(), "draft": draft.model_dump(), "seo_checks": qa,
     }
     (folder / "meta.json").write_text(json.dumps(meta, indent=1, ensure_ascii=False), encoding="utf-8")
-    return folder
+    return html

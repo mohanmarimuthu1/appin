@@ -215,6 +215,51 @@
       "lastAccessed": "2026-11-06T06:18:58.876Z",
       "accessCount": 0,
       "expiresAt": "2026-12-06T06:18:58.876Z"
+    },
+    "cmd-1793946702851": {
+      "key": "cmd-1793946702851",
+      "value": "{\"command\":\"ls -la; ls api 2>/dev/null; cat vercel.json 2>/dev/null; git status 2>/dev/null | head -5\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:31:42.851Z",
+      "lastAccessed": "2026-11-06T06:31:42.851Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:31:42.851Z"
+    },
+    "cmd-1793946812334": {
+      "key": "cmd-1793946812334",
+      "value": "{\"command\":\"export PYTHONIOENCODING=utf-8 && VERCEL=1 python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:33:32.334Z",
+      "lastAccessed": "2026-11-06T06:33:32.334Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:33:32.334Z"
+    },
+    "cmd-1793946845674": {
+      "key": "cmd-1793946845674",
+      "value": "{\"command\":\"PYTHONIOENCODING=utf-8 python app.py\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:34:05.674Z",
+      "lastAccessed": "2026-11-06T06:34:05.674Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:34:05.674Z"
+    },
+    "cmd-1793946869796": {
+      "key": "cmd-1793946869796",
+      "value": "{\"command\":\"(netstat -ano | grep \\\":5000 .*LISTENING\\\" | awk '{print $5}' | sort -u | xargs -r -I{} taskkill //PID {} //F); echo restarted\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:34:29.796Z",
+      "lastAccessed": "2026-11-06T06:34:29.796Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:34:29.796Z"
+    },
+    "cmd-1793946879022": {
+      "key": "cmd-1793946879022",
+      "value": "{\"command\":\"curl -s -N -m 150 http://127.0.0.1:5000/api/create | python -c \\\"\",\"exitCode\":0,\"success\":true}",
+      "namespace": "commands",
+      "storedAt": "2026-11-06T06:34:39.022Z",
+      "lastAccessed": "2026-11-06T06:34:39.022Z",
+      "accessCount": 0,
+      "expiresAt": "2026-12-06T06:34:39.022Z"
     }
   },
   "version": "3.0.0"

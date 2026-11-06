@@ -78,7 +78,8 @@ def run():
     passed = sum(c["pass"] for c in qa)
     yield {"step": "qa", "status": "done", "message": f"SEO checks: {passed}/{len(qa)} passed", "data": qa}
 
-    publisher.publish(slug, draft, plan, cluster, research_summary, audit_summary, qa, mode, links[0]["url"])
+    html = publisher.publish(slug, draft, plan, cluster, research_summary, audit_summary, qa, mode, links[0]["url"])
     yield {"step": "publish", "status": "done",
-           "message": f"Blog page saved to output/blogs/{slug}/index.html in {time.time() - t0:.0f}s",
-           "data": {"slug": slug, "url": f"/blog/{slug}", "mode": mode}}
+           "message": f"Blog page saved to {planner.OUTPUT_DIR / slug / 'index.html'} in {time.time() - t0:.0f}s",
+           # html is sent too: on serverless hosts the next request may hit an instance without this file
+           "data": {"slug": slug, "url": f"/blog/{slug}", "mode": mode, "html": html}}

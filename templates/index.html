@@ -156,8 +156,11 @@ function renderQA(qa) {
 }
 
 function renderPreview(d) {
-  $("#prev").innerHTML = `<p style="margin-top:0">Saved: <a href="${d.url}" target="_blank">${location.origin}${d.url}</a> · <a href="/api/blogs/${d.slug}" target="_blank">meta.json</a> · ${esc(d.mode)}</p>
-    <iframe src="${d.url}" title="Blog preview"></iframe>`;
+  const file = URL.createObjectURL(new Blob([d.html], {type: "text/html"}));
+  $("#prev").innerHTML = `<p style="margin-top:0">Saved: <a href="${d.url}" target="_blank">${location.origin}${d.url}</a> ·
+    <a href="${file}" target="_blank">open page</a> · <a href="${file}" download="${esc(d.slug)}.html">download HTML</a> · ${esc(d.mode)}</p>
+    <iframe title="Blog preview"></iframe>`;
+  $("#prev iframe").srcdoc = d.html;
 }
 
 async function loadBlogs() {

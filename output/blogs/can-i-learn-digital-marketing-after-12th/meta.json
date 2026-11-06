@@ -1,0 +1,1091 @@
+{
+ "slug": "can-i-learn-digital-marketing-after-12th",
+ "created_at": "2026-11-06T12:04:30",
+ "mode": "offline templates (no ANTHROPIC_API_KEY)",
+ "seo_title": "Can I Learn Digital Marketing After 12th | Appin Technology",
+ "primary_keyword": "can i learn digital marketing after 12th",
+ "secondary_keywords": [
+  "can i learn digital marketing after 10th",
+  "what should i do after digital marketing course",
+  "digital marketing course after salary",
+  "learn digital marketing and content creation",
+  "which digital marketing course is best for beginners",
+  "learn digital marketing with google"
+ ],
+ "research": {
+  "source": "live",
+  "queries_sent": 65,
+  "queries_ok": 45,
+  "keywords_found": 255
+ },
+ "content_audit": {
+  "source": "cache (<24h)",
+  "pages_checked": 308
+ },
+ "cluster": {
+  "primary": {
+   "keyword": "can i learn digital marketing after 12th",
+   "verified": {
+    "source": "Google Autocomplete (live)",
+    "autocomplete_rank": 1,
+    "seen_in_seed_queries": 1
+   },
+   "estimated": {
+    "volume_tier": "Medium",
+    "volume_score": 0.6,
+    "difficulty": 0.2,
+    "difficulty_label": "Easy"
+   },
+   "intent": "informational",
+   "flags": [],
+   "relevance": 1.0,
+   "opportunity": 0.706,
+   "cannibalisation": {
+    "score": 0.47,
+    "title": "Can I Expect Digital Marketing Job Placement Assistance After Completing a Course at Appin Coimbatore?",
+    "url": "https://appincoimbatore.com/can-i-expect-digital-marketing-job-placement-assistance-after-completing-a-course-at-appin-coimbatore/",
+    "risk": "Low"
+   },
+   "final_score": 0.706
+  },
+  "secondary": [
+   {
+    "keyword": "can i learn digital marketing after 10th",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 3,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.51,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.666,
+    "cannibalisation": {
+     "score": 0.47,
+     "title": "Can I Expect Digital Marketing Job Placement Assistance After Completing a Course at Appin Coimbatore?",
+     "url": "https://appincoimbatore.com/can-i-expect-digital-marketing-job-placement-assistance-after-completing-a-course-at-appin-coimbatore/",
+     "risk": "Low"
+    },
+    "final_score": 0.666
+   },
+   {
+    "keyword": "what should i do after digital marketing course",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 4,
+     "seen_in_seed_queries": 3
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.61,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.709,
+    "cannibalisation": {
+     "score": 0.57,
+     "title": "Digital Marketing Essentials: What to Expect from a Comprehensive Course",
+     "url": "https://appincoimbatore.com/digital-marketing-essentials-what-to-expect-from-a-comprehensive-course/",
+     "risk": "Medium"
+    },
+    "final_score": 0.461
+   },
+   {
+    "keyword": "digital marketing course after salary",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 3,
+     "seen_in_seed_queries": 2
+    },
+    "estimated": {
+     "volume_tier": "High",
+     "volume_score": 0.67,
+     "difficulty": 0.4,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.634,
+    "cannibalisation": {
+     "score": 0.64,
+     "title": "Can I Expect Digital Marketing Job Placement Assistance After Completing a Course at Appin Coimbatore?",
+     "url": "https://appincoimbatore.com/can-i-expect-digital-marketing-job-placement-assistance-after-completing-a-course-at-appin-coimbatore/",
+     "risk": "Medium"
+    },
+    "final_score": 0.412
+   },
+   {
+    "keyword": "learn digital marketing and content creation",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 1,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "High",
+     "volume_score": 0.64,
+     "difficulty": 0.3,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.671,
+    "cannibalisation": {
+     "score": 0.34,
+     "title": "The Evolution of Content Marketing: What to Expect in 2024",
+     "url": "https://appincoimbatore.com/the-evolution-of-content-marketing-what-to-expect-in-2024/",
+     "risk": "Low"
+    },
+    "final_score": 0.671
+   },
+   {
+    "keyword": "which digital marketing course is best for beginners",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 2,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.53,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.671,
+    "cannibalisation": {
+     "score": 0.43,
+     "title": "Where to Find the Best Digital Marketing Internships in Coimbatore",
+     "url": "https://appincoimbatore.com/where-to-find-the-best-digital-marketing-internships-in-coimbatore/",
+     "risk": "Low"
+    },
+    "final_score": 0.671
+   },
+   {
+    "keyword": "learn digital marketing with google",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 1,
+     "seen_in_seed_queries": 2
+    },
+    "estimated": {
+     "volume_tier": "High",
+     "volume_score": 0.76,
+     "difficulty": 0.4,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.668,
+    "cannibalisation": {
+     "score": 0.39,
+     "title": "Can I Learn Digital Marketing at Home | Appin Technology",
+     "url": "/blog/can-i-learn-digital-marketing-at-home",
+     "risk": "Low"
+    },
+    "final_score": 0.668
+   }
+  ],
+  "rejected_cannibalising": [
+   {
+    "keyword": "digital marketing salary in coimbatore",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 2,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "High",
+     "volume_score": 0.63,
+     "difficulty": 0.4,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [
+     "local Coimbatore intent (+20%)"
+    ],
+    "relevance": 1.0,
+    "opportunity": 0.741,
+    "cannibalisation": {
+     "score": 1.0,
+     "title": "Digital Marketing Salary in Coimbatore | Appin Technology",
+     "url": "/blog/digital-marketing-salary-in-coimbatore",
+     "risk": "High"
+    },
+    "final_score": 0.0
+   },
+   {
+    "keyword": "digital marketing jobs in coimbatore salary",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 5,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.46,
+     "difficulty": 0.3,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [
+     "local Coimbatore intent (+20%)"
+    ],
+    "relevance": 1.0,
+    "opportunity": 0.717,
+    "cannibalisation": {
+     "score": 0.72,
+     "title": "Digital Marketing Salary in Coimbatore | Appin Technology",
+     "url": "/blog/digital-marketing-salary-in-coimbatore",
+     "risk": "High"
+    },
+    "final_score": 0.0
+   },
+   {
+    "keyword": "how long does a digital marketing course take",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 6,
+     "seen_in_seed_queries": 4
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.61,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.708,
+    "cannibalisation": {
+     "score": 0.79,
+     "title": "How Long Does It Take to Learn Digital Marketing?",
+     "url": "https://appincoimbatore.com/how-long-does-it-take-to-learn-digital-marketing/",
+     "risk": "High"
+    },
+    "final_score": 0.0
+   },
+   {
+    "keyword": "can i learn digital marketing at home",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 5,
+     "seen_in_seed_queries": 3
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.6,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.704,
+    "cannibalisation": {
+     "score": 1.0,
+     "title": "Can I Learn Digital Marketing at Home | Appin Technology",
+     "url": "/blog/can-i-learn-digital-marketing-at-home",
+     "risk": "High"
+    },
+    "final_score": 0.0
+   },
+   {
+    "keyword": "digital marketing course for beginners online",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 1,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "High",
+     "volume_score": 0.64,
+     "difficulty": 0.3,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.671,
+    "cannibalisation": {
+     "score": 0.8,
+     "title": "Online Digital Marketing Course",
+     "url": "https://appincoimbatore.com/online-digital-marketing-course-in-coimbatore/",
+     "risk": "High"
+    },
+    "final_score": 0.0
+   },
+   {
+    "keyword": "what course to do for digital marketing",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 3,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.51,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.666,
+    "cannibalisation": {
+     "score": 0.82,
+     "title": "Digital Marketing Essentials: What to Expect from a Comprehensive Course",
+     "url": "https://appincoimbatore.com/digital-marketing-essentials-what-to-expect-from-a-comprehensive-course/",
+     "risk": "High"
+    },
+    "final_score": 0.0
+   },
+   {
+    "keyword": "how long does it take to learn digital marketing",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 4,
+     "seen_in_seed_queries": 2
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.49,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.656,
+    "cannibalisation": {
+     "score": 1.0,
+     "title": "How Long Does It Take to Learn Digital Marketing?",
+     "url": "https://appincoimbatore.com/how-long-does-it-take-to-learn-digital-marketing/",
+     "risk": "High"
+    },
+    "final_score": 0.0
+   },
+   {
+    "keyword": "how to learn digital marketing",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 1,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "High",
+     "volume_score": 0.67,
+     "difficulty": 0.4,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.635,
+    "cannibalisation": {
+     "score": 0.88,
+     "title": "How Long Does It Take to Learn Digital Marketing?",
+     "url": "https://appincoimbatore.com/how-long-does-it-take-to-learn-digital-marketing/",
+     "risk": "High"
+    },
+    "final_score": 0.0
+   }
+  ],
+  "shortlist": [
+   {
+    "keyword": "can i learn digital marketing after 12th",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 1,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.6,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.706,
+    "cannibalisation": {
+     "score": 0.47,
+     "title": "Can I Expect Digital Marketing Job Placement Assistance After Completing a Course at Appin Coimbatore?",
+     "url": "https://appincoimbatore.com/can-i-expect-digital-marketing-job-placement-assistance-after-completing-a-course-at-appin-coimbatore/",
+     "risk": "Low"
+    },
+    "final_score": 0.706
+   },
+   {
+    "keyword": "learn digital marketing and content creation",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 1,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "High",
+     "volume_score": 0.64,
+     "difficulty": 0.3,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.671,
+    "cannibalisation": {
+     "score": 0.34,
+     "title": "The Evolution of Content Marketing: What to Expect in 2024",
+     "url": "https://appincoimbatore.com/the-evolution-of-content-marketing-what-to-expect-in-2024/",
+     "risk": "Low"
+    },
+    "final_score": 0.671
+   },
+   {
+    "keyword": "which digital marketing course is best for beginners",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 2,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.53,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.671,
+    "cannibalisation": {
+     "score": 0.43,
+     "title": "Where to Find the Best Digital Marketing Internships in Coimbatore",
+     "url": "https://appincoimbatore.com/where-to-find-the-best-digital-marketing-internships-in-coimbatore/",
+     "risk": "Low"
+    },
+    "final_score": 0.671
+   },
+   {
+    "keyword": "learn digital marketing with google",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 1,
+     "seen_in_seed_queries": 2
+    },
+    "estimated": {
+     "volume_tier": "High",
+     "volume_score": 0.76,
+     "difficulty": 0.4,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.668,
+    "cannibalisation": {
+     "score": 0.39,
+     "title": "Can I Learn Digital Marketing at Home | Appin Technology",
+     "url": "/blog/can-i-learn-digital-marketing-at-home",
+     "risk": "Low"
+    },
+    "final_score": 0.668
+   },
+   {
+    "keyword": "can i learn digital marketing after 10th",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 3,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.51,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.666,
+    "cannibalisation": {
+     "score": 0.47,
+     "title": "Can I Expect Digital Marketing Job Placement Assistance After Completing a Course at Appin Coimbatore?",
+     "url": "https://appincoimbatore.com/can-i-expect-digital-marketing-job-placement-assistance-after-completing-a-course-at-appin-coimbatore/",
+     "risk": "Low"
+    },
+    "final_score": 0.666
+   },
+   {
+    "keyword": "is digital marketing is it or non it",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 3,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.48,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.652,
+    "cannibalisation": {
+     "score": 0.36,
+     "title": "Digital Marketing Course in Coimbatore",
+     "url": "https://appincoimbatore.com/digital-marketing-course-in-coimbatore/",
+     "risk": "Low"
+    },
+    "final_score": 0.652
+   },
+   {
+    "keyword": "which digital marketing course is best in india",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 3,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.48,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.652,
+    "cannibalisation": {
+     "score": 0.43,
+     "title": "Where to Find the Best Digital Marketing Internships in Coimbatore",
+     "url": "https://appincoimbatore.com/where-to-find-the-best-digital-marketing-internships-in-coimbatore/",
+     "risk": "Low"
+    },
+    "final_score": 0.652
+   },
+   {
+    "keyword": "is there any course for digital marketing",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 2,
+     "seen_in_seed_queries": 5
+    },
+    "estimated": {
+     "volume_tier": "High",
+     "volume_score": 0.82,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [
+     "vague phrasing"
+    ],
+    "relevance": 0.8,
+    "opportunity": 0.641,
+    "cannibalisation": {
+     "score": 0.37,
+     "title": "Digital Marketing Course in Coimbatore",
+     "url": "https://appincoimbatore.com/digital-marketing-course-in-coimbatore/",
+     "risk": "Low"
+    },
+    "final_score": 0.641
+   },
+   {
+    "keyword": "learn digital marketing for real estate",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 3,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "Medium",
+     "volume_score": 0.55,
+     "difficulty": 0.3,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.634,
+    "cannibalisation": {
+     "score": 0.33,
+     "title": "How Long Does It Take to Learn Digital Marketing?",
+     "url": "https://appincoimbatore.com/how-long-does-it-take-to-learn-digital-marketing/",
+     "risk": "Low"
+    },
+    "final_score": 0.634
+   },
+   {
+    "keyword": "digital marketing course for beginners",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 2,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "High",
+     "volume_score": 0.63,
+     "difficulty": 0.4,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.618,
+    "cannibalisation": {
+     "score": 0.45,
+     "title": "Online Digital Marketing Course",
+     "url": "https://appincoimbatore.com/online-digital-marketing-course-in-coimbatore/",
+     "risk": "Low"
+    },
+    "final_score": 0.618
+   },
+   {
+    "keyword": "learn digital marketing and ecommerce",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 2,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "High",
+     "volume_score": 0.63,
+     "difficulty": 0.4,
+     "difficulty_label": "Easy"
+    },
+    "intent": "informational",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.618,
+    "cannibalisation": {
+     "score": 0.39,
+     "title": "Can I Learn Digital Marketing at Home | Appin Technology",
+     "url": "/blog/can-i-learn-digital-marketing-at-home",
+     "risk": "Low"
+    },
+    "final_score": 0.618
+   },
+   {
+    "keyword": "digital marketing executive vs digital marketing specialist",
+    "verified": {
+     "source": "Google Autocomplete (live)",
+     "autocomplete_rank": 6,
+     "seen_in_seed_queries": 1
+    },
+    "estimated": {
+     "volume_tier": "Low",
+     "volume_score": 0.38,
+     "difficulty": 0.2,
+     "difficulty_label": "Easy"
+    },
+    "intent": "comparison",
+    "flags": [],
+    "relevance": 1.0,
+    "opportunity": 0.607,
+    "cannibalisation": {
+     "score": 0.49,
+     "title": "AI vs Digital Marketing: Which Career Should You Choose in 2026",
+     "url": "https://appincoimbatore.com/ai-vs-digital-marketing-which-career-should-you-choose-in-2026/",
+     "risk": "Low"
+    },
+    "final_score": 0.607
+   }
+  ]
+ },
+ "plan": {
+  "topic": "Can I Learn Digital Marketing After 12th? A Practical 2026 Guide for Coimbatore Learners",
+  "slug": "can-i-learn-digital-marketing-after-12th",
+  "target_audience": "College students, freshers and career-switchers in Coimbatore exploring a digital marketing career",
+  "search_intent": "informational",
+  "angle": "Answer 'can i learn digital marketing after 12th' directly, then give a practical path from learning to a first job.",
+  "differentiation": "Targets a long-tail query no existing Appin post covers; links to the course page for the head term instead of competing with it. Nearest existing posts: How Long Does It Take to Learn Digital Marketing?; No Coding? No Problem! Can You Learn Digital Marketing Without Programming?; Best Skills to Learn for a Future-Proof Digital Marketing Career",
+  "outline": [
+   {
+    "h2": "Can You Really Learn Digital Marketing From Scratch?",
+    "h3": [
+     "Who it suits",
+     "What you need before you start"
+    ]
+   },
+   {
+    "h2": "What a Good Digital Marketing Course Should Cover",
+    "h3": [
+     "SEO and content marketing",
+     "Google Ads and Meta Ads",
+     "Social media marketing",
+     "Analytics, AI tools and reporting"
+    ]
+   },
+   {
+    "h2": "How to Choose the Right Digital Marketing Course in Coimbatore",
+    "h3": [
+     "Check the syllabus and live projects",
+     "Ask about certification and placement support",
+     "Compare class format, batch size and fees"
+    ]
+   },
+   {
+    "h2": "A Simple 90-Day Learning Roadmap",
+    "h3": [
+     "Month 1: foundations",
+     "Month 2: hands-on campaigns",
+     "Month 3: portfolio and job prep"
+    ]
+   },
+   {
+    "h2": "Common Mistakes Beginners Make",
+    "h3": []
+   },
+   {
+    "h2": "Learn Digital Marketing with Appin Technology",
+    "h3": []
+   }
+  ]
+ },
+ "draft": {
+  "seo_title": "Can I Learn Digital Marketing After 12th | Appin Technology",
+  "meta_description": "Can I Learn Digital Marketing After 12th? Learn what to study, how to choose a course in Coimbatore and a 90-day roadmap to your first digital marketing job.",
+  "h1": "Can I Learn Digital Marketing After 12th? A Practical 2026 Guide for Coimbatore Learners",
+  "intro": [
+   "If you have been searching “can i learn digital marketing after 12th”, you are probably weighing whether digital marketing is the right next step and how to get started without wasting time or money. This guide answers that question directly and gives you a practical path.",
+   "We cover what to learn, how to choose a course in Coimbatore, a 90-day roadmap and the questions students ask us most often."
+  ],
+  "sections": [
+   {
+    "heading": "Can You Really Learn Digital Marketing From Scratch?",
+    "paragraphs": [
+     "Yes. Most of the core tools run in a browser and many learning resources are free. What makes the difference between dabbling and getting hired is structure, feedback from experienced trainers and practice on real campaigns.",
+     "Many learners also ask “can i learn digital marketing after 10th”; the short answer is that structured practice matters more than where you start."
+    ],
+    "bullets": [],
+    "subsections": [
+     {
+      "heading": "Who it suits",
+      "paragraphs": [
+       "Digital marketing has no coding requirement, so students from commerce, arts, science and engineering backgrounds can all learn it. Curiosity and consistent practice matter more than your degree."
+      ],
+      "bullets": []
+     },
+     {
+      "heading": "What you need before you start",
+      "paragraphs": [
+       "A laptop, a reliable internet connection and a few hours a week. A personal blog or social page to practise on helps you learn faster than theory alone."
+      ],
+      "bullets": []
+     }
+    ]
+   },
+   {
+    "heading": "What a Good Digital Marketing Course Should Cover",
+    "paragraphs": [
+     "A job-ready course goes well beyond definitions. Look for these core modules, each taught with hands-on exercises rather than slides alone.",
+     "When people search for what should i do after digital marketing course, they usually want a clear syllabus and proof that the skills lead to jobs."
+    ],
+    "bullets": [],
+    "subsections": [
+     {
+      "heading": "SEO and content marketing",
+      "paragraphs": [
+       "Learn keyword research, on-page optimisation, technical basics and how to write content that ranks and converts."
+      ],
+      "bullets": []
+     },
+     {
+      "heading": "Google Ads and Meta Ads",
+      "paragraphs": [
+       "Set up search, display and social campaigns, choose audiences, write ad copy and manage budgets against clear goals."
+      ],
+      "bullets": []
+     },
+     {
+      "heading": "Social media marketing",
+      "paragraphs": [
+       "Plan content calendars, create engaging posts and reels, and grow communities on Instagram, LinkedIn and YouTube."
+      ],
+      "bullets": []
+     },
+     {
+      "heading": "Analytics, AI tools and reporting",
+      "paragraphs": [
+       "Use Google Analytics 4 and Search Console to measure results, and AI tools to speed up research, copywriting and reporting."
+      ],
+      "bullets": []
+     }
+    ]
+   },
+   {
+    "heading": "How to Choose the Right Digital Marketing Course in Coimbatore",
+    "paragraphs": [
+     "Coimbatore has many training options, from weekend workshops to full job-oriented programmes. Use this checklist to compare them on the things that actually affect your outcome.",
+     "This is also why “digital marketing course after salary” is such a common question among students and freshers."
+    ],
+    "bullets": [],
+    "subsections": [
+     {
+      "heading": "Check the syllabus and live projects",
+      "paragraphs": [
+       "Ask for the module-by-module syllabus and confirm you will work on real or simulated client projects, not only slides."
+      ],
+      "bullets": []
+     },
+     {
+      "heading": "Ask about certification and placement support",
+      "paragraphs": [
+       "Find out which certificates you earn, whether internships are offered and how the institute supports interviews and referrals."
+      ],
+      "bullets": []
+     },
+     {
+      "heading": "Compare class format, batch size and fees",
+      "paragraphs": [
+       "Classroom, online and hybrid formats suit different schedules. Smaller batches mean more trainer attention. Compare total fees against hours and support included."
+      ],
+      "bullets": []
+     }
+    ]
+   },
+   {
+    "heading": "A Simple 90-Day Learning Roadmap",
+    "paragraphs": [
+     "Whether you study at home, online or in a classroom, a clear plan keeps you moving. Here is a realistic three-month path for a complete beginner.",
+     "If learn digital marketing and content creation is on your mind, look for programmes that combine theory with live projects."
+    ],
+    "bullets": [],
+    "subsections": [
+     {
+      "heading": "Month 1: foundations",
+      "paragraphs": [
+       "Learn how search engines, social platforms and ads work. Set up a practice website or page and install analytics."
+      ],
+      "bullets": []
+     },
+     {
+      "heading": "Month 2: hands-on campaigns",
+      "paragraphs": [
+       "Run small SEO, social and paid campaigns, track results weekly and learn from what does not work."
+      ],
+      "bullets": []
+     },
+     {
+      "heading": "Month 3: portfolio and job prep",
+      "paragraphs": [
+       "Document your campaigns as case studies, earn certifications and practise interviews for executive-level roles."
+      ],
+      "bullets": []
+     }
+    ]
+   },
+   {
+    "heading": "Common Mistakes Beginners Make",
+    "paragraphs": [
+     "Most learners who stall do not lack talent; they fall into a few predictable traps. Avoiding these will save you months.",
+     "Questions like “which digital marketing course is best for beginners” come down to the same thing: practical skills plus a portfolio."
+    ],
+    "bullets": [
+     "Collecting certificates without running a single real campaign",
+     "Trying to master every platform at once instead of going deep on two or three",
+     "Ignoring analytics, so you cannot explain what worked and why",
+     "Waiting until the course ends to build a portfolio instead of documenting work from week one",
+     "Copying AI-generated content without editing it for accuracy, tone and search intent"
+    ],
+    "subsections": []
+   },
+   {
+    "heading": "Learn Digital Marketing with Appin Technology",
+    "paragraphs": [
+     "Appin Technology's Digital Marketing Course in Coimbatore is built around hands-on practice: you work with the same tools and campaign types employers use, guided by working trainers.",
+     "You can ask the team for the current syllabus, batch timings, fees and internship options before you decide."
+    ],
+    "bullets": [
+     "Practical, project-based modules",
+     "SEO, Google Ads, Meta Ads, social media and analytics",
+     "Classroom and online options",
+     "Internship and career guidance"
+    ],
+    "subsections": []
+   }
+  ],
+  "conclusion": [
+   "Getting clarity on can i learn digital marketing after 12th is the first step. Pick a course with a practical syllabus, live projects and real placement support, then practise consistently for three months - that combination is what gets freshers hired."
+  ],
+  "faqs": [
+   {
+    "question": "Can I Learn Digital Marketing After 12th?",
+    "answer": "Yes. With a structured course, regular practice and a few real projects, most beginners can build job-ready digital marketing skills - at home, online or in a classroom."
+   },
+   {
+    "question": "Do I need a technical background to learn digital marketing?",
+    "answer": "No. Digital marketing does not require coding. Students from any stream can learn it with practice."
+   },
+   {
+    "question": "How long does it take to become job-ready?",
+    "answer": "With a structured course and regular practice, most learners can apply for entry-level roles within three to four months."
+   },
+   {
+    "question": "Which tools should a beginner learn first?",
+    "answer": "Start with Google Search Console, Google Analytics 4, Google Ads, Meta Ads Manager and a simple website platform such as WordPress."
+   },
+   {
+    "question": "Does Appin Technology offer placement support?",
+    "answer": "Appin Technology provides career guidance and internship opportunities; contact the team for current placement support details."
+   }
+  ],
+  "internal_links": [
+   {
+    "anchor_text": "digital marketing course in Coimbatore",
+    "url": "https://appincoimbatore.com/digital-marketing-course-in-coimbatore/",
+    "placement": "Learn Digital Marketing with Appin Technology section"
+   },
+   {
+    "anchor_text": "SEO Course in Coimbatore",
+    "url": "https://appincoimbatore.com/seo-course-in-coimbatore/",
+    "placement": "Related reading box"
+   },
+   {
+    "anchor_text": "Online Digital Marketing Course",
+    "url": "https://appincoimbatore.com/online-digital-marketing-course-in-coimbatore/",
+    "placement": "Related reading box"
+   },
+   {
+    "anchor_text": "Meta Ads Mastery Course in Coimbatore",
+    "url": "https://appincoimbatore.com/meta-ads-mastery-course-coimbatore/",
+    "placement": "Related reading box"
+   },
+   {
+    "anchor_text": "Digital Marketing Internship in Coimbatore",
+    "url": "https://appincoimbatore.com/digital-marketing-internship-in-coimbatore/",
+    "placement": "Related reading box"
+   }
+  ],
+  "images": [
+   {
+    "placement": "Hero, below the H1",
+    "description": "Students working on a digital marketing campaign dashboard in a Coimbatore classroom",
+    "alt_text": "Students learning digital marketing in Coimbatore - can i learn digital marketing after 12th",
+    "file_name": "can-i-learn-digital-marketing-after-12th-hero.webp"
+   },
+   {
+    "placement": "Course coverage section",
+    "description": "Infographic of course modules: SEO, Google Ads, Meta Ads, social media, analytics",
+    "alt_text": "Infographic of digital marketing course modules: SEO, ads, social media and analytics",
+    "file_name": "digital-marketing-course-modules.webp"
+   },
+   {
+    "placement": "90-day roadmap section",
+    "description": "Three-step timeline graphic for month 1, 2 and 3",
+    "alt_text": "90-day digital marketing learning roadmap for beginners",
+    "file_name": "digital-marketing-90-day-roadmap.webp"
+   }
+  ],
+  "cta": {
+   "heading": "Start Your Digital Marketing Career with Appin Technology",
+   "text": "Join Appin Technology's Digital Marketing Course in Coimbatore and learn SEO, Google Ads, Meta Ads, social media and analytics through hands-on projects.",
+   "button_text": "Explore the Course"
+  }
+ },
+ "seo_checks": [
+  {
+   "check": "SEO title length",
+   "pass": true,
+   "value": "59 chars",
+   "target": "≤ 60 chars"
+  },
+  {
+   "check": "Primary keyword in SEO title",
+   "pass": true,
+   "value": "Can I Learn Digital Marketing After 12th | Appin Technology",
+   "target": "contains keyword"
+  },
+  {
+   "check": "Meta description length",
+   "pass": true,
+   "value": "157 chars",
+   "target": "120-160 chars"
+  },
+  {
+   "check": "Primary keyword in meta description",
+   "pass": true,
+   "value": "",
+   "target": "contains keyword"
+  },
+  {
+   "check": "Primary keyword in H1",
+   "pass": true,
+   "value": "Can I Learn Digital Marketing After 12th? A Practical 2026 Guide for Coimbatore Learners",
+   "target": "contains keyword"
+  },
+  {
+   "check": "Primary keyword in first 100 words",
+   "pass": true,
+   "value": "",
+   "target": "contains keyword"
+  },
+  {
+   "check": "Keyword in URL slug",
+   "pass": true,
+   "value": "can-i-learn-digital-marketing-after-12th",
+   "target": "main keyword words"
+  },
+  {
+   "check": "Exact primary keyword uses",
+   "pass": true,
+   "value": 3,
+   "target": "2-12 (natural, no stuffing)"
+  },
+  {
+   "check": "Secondary keywords used",
+   "pass": true,
+   "value": "6/6",
+   "target": "≥ half"
+  },
+  {
+   "check": "Word count",
+   "pass": true,
+   "value": 963,
+   "target": "≥ 900 words"
+  },
+  {
+   "check": "Heading structure",
+   "pass": true,
+   "value": "6 H2 / 12 H3",
+   "target": "≥ 4 H2 and ≥ 3 H3"
+  },
+  {
+   "check": "FAQs",
+   "pass": true,
+   "value": 5,
+   "target": "≥ 4"
+  },
+  {
+   "check": "Internal links",
+   "pass": true,
+   "value": 5,
+   "target": "≥ 3 valid links"
+  },
+  {
+   "check": "Image alt text",
+   "pass": true,
+   "value": "3 images",
+   "target": "every image has alt ≤ 125 chars"
+  }
+ ]
+}
